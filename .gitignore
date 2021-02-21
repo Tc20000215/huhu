@@ -1,0 +1,5 @@
+# 忽略cece.txt文件
+cece.txt
+
+#忽略test目录下所有文件
+test/
